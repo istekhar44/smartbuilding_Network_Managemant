@@ -30,3 +30,5 @@ party. The user has ability to connect to IOT control page using a Smartphone re
 Cisco Packet Tracer: Version [8.2.1] or later.
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/c47b115f-2915-4398-97f2-b14070db06fd)
+# Project pdf 
+https://drive.google.com/file/d/1RcxMVvLoq3bWghdnc5BGQaPjrvugsJp_/view?usp=drive_link
