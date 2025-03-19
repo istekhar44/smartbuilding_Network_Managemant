@@ -1,4 +1,4 @@
-# Cisco Packet Tracer Project
+# Security Aspects in a Smart Building 
 # Organization
 ![Screenshot (14)](https://github.com/user-attachments/assets/0a8b237f-74e3-4412-a436-79bf9e452a7c)
 
